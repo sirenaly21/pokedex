@@ -4,7 +4,7 @@ A Pokedex that displays the first 100 Pokemon created. Plans to add more functio
 # How to Run React App
 Start this app using the following commands:
 
-### `npm install'
+### `npm install`
 Gets node modules that are not included in repo.
 
 ### `npm start`
