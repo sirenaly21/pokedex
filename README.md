@@ -1,3 +1,6 @@
+# Pokedex App
+A Pokedex that displays the first 100 Pokemon created. Plans to add more functionality for later development. Created to familiarize with creating a React App and stylizing with CSS. 
+
 # How to Run React App
 Start this app using the following command:
 
