@@ -1,0 +1,34 @@
+.brandName 
+{
+    font-family: "pkmnfont";
+    color:#000000;
+    display: inline-flex;
+    font-weight: bold;
+    font-size: 25px;
+    padding-right: 15px;
+
+}
+
+a 
+{
+    font-family: "pkmnfont";
+    color:#757d81;
+    text-decoration: none;
+    padding: 0px 10px;
+    word-wrap: normal;
+    display: inline-block;
+    font-weight: bold;
+}
+
+.container
+{
+    max-width: 100%;
+    padding: 0%;
+}
+
+
+.navbarContainer 
+{
+    margin: 0%;
+}
+
